@@ -132,8 +132,8 @@ When the emergency button is pressed:
 
 ## Author
 
-Jana Alghamdi -
+Jana Alghamdi 
 
-Layan Alquraini -
+Layan Alquraini 
 
 Shaikha Alkhathlan.
