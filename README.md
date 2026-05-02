@@ -1,5 +1,5 @@
 # drbk-smart-cane
-# DRBK Smart Cane System
+# DRBK Smart Cane System 🦯🧠
 
 An AI-powered smart cane system designed to assist visually impaired individuals using real-time object detection and distance sensing.
 
@@ -100,18 +100,6 @@ Example of real-time object detection using the camera module.
 
 ---
 
-## Project Structure
-
-drbk-smart-cane/
-│── DRBK-GUI.py
-│── README.md
-│── images/
-    │── architecture.png
-    │── hardware.jpg
-    │── gui.png
-    │── detection.jpg
-
----
 
 ## How to Run
 
