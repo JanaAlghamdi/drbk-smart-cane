@@ -135,7 +135,7 @@ When the emergency button is pressed:
   [LinkedIn](https://www.linkedin.com/in/jana-alghamdi-54a787328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 - Layan Alquraini  
-  [LinkedIn](YOUR_LINK_HERE)
+  [LinkedIn](https://www.linkedin.com/in/layan-alquraini-cs?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 - Shaikha Alkhathlan  
   [LinkedIn](https://www.linkedin.com/in/shaikha-a-2ba51b325/)
