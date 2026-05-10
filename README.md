@@ -133,13 +133,10 @@ When the emergency button is pressed:
 ## Author
 
 Jana Alghamdi 
-
 Layan Alquraini 
-
 Shaikha Alkhathlan
 
 Malak Abdullah Almarshad
-
 
 Assistant Professor of Computer Science, Imam Mohammad Ibn Saud Islamic University (IMSIU)
 https://scholar.google.com/citations?user=h2wmOswAAAAJ&hl=ar
