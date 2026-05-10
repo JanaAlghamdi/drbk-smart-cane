@@ -129,14 +129,19 @@ When the emergency button is pressed:
 - Extend system capabilities  
 
 ---
-
 ## Authors
 
-Jana Alghamdi, 
-Layan Alquraini, 
-Shaikha Alkhathlan
+- Jana Alghamdi  
+  [LinkedIn](https://www.linkedin.com/in/jana-alghamdi-54a787328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Malak Abdullah Almarshad
+- Layan Alquraini  
+  [LinkedIn](YOUR_LINK_HERE)
 
-Assistant Professor of Computer Science, Imam Mohammad Ibn Saud Islamic University (IMSIU)
-https://scholar.google.com/citations?user=h2wmOswAAAAJ&hl=ar
+- Shaikha Alkhathlan  
+  [LinkedIn](YOUR_LINK_HERE)
+
+### Supervisor
+- Malak Abdullah Almarshad  
+  Assistant Professor of Computer Science, Imam Mohammad Ibn Saud Islamic University (IMSIU)
+  https://scholar.google.com/citations?user=h2wmOswAAAAJ&hl=ar
+
