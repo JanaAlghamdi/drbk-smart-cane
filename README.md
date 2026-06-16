@@ -138,7 +138,7 @@ When the emergency button is pressed:
   [LinkedIn](https://www.linkedin.com/in/layan-alquraini-cs?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 - Shaikha Alkhathlan  
-  [LinkedIn](https://www.linkedin.com/in/shaikha-a-2ba51b325/)
+  [LinkedIn](linkedin.com/in/shaikha-alkhathlan)
 
 ### Supervisor
 - Malak Abdullah Almarshad  
